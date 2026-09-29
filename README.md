@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  Consumet API - This repo is no longer active
+  Consumet API 
 </h1>
 <p align="center">
   Consumet provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
